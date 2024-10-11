@@ -1,4 +1,4 @@
-[
+{
  'https://notpx.app/api/v1/mining/task/check/walletConnection',
  'https://notpx.app/api/v1/mining/task/check/jettonTask',
  'https://notpx.app/api/v1/mining/task/check/paint20pixels',
@@ -17,4 +17,4 @@
  'https://notpx.app/api/v1/mining/task/check/invite3frens',
  'https://notpx.app/api/v1/mining/task/check/boostChannelNotPixel',
  'https://notpx.app/api/v1/mining/task/check/walletConnection'
-]
+}
