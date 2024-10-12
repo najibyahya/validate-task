@@ -15,6 +15,7 @@
  'https://notpx.app/api/v1/mining/task/check/makePixelAvatar',
  'https://notpx.app/api/v1/mining/task/check/invite1fren',
  'https://notpx.app/api/v1/mining/task/check/invite3frens',
+ 'https://notpx.app/api/v1/mining/task/check/walletConnection',
  'https://notpx.app/api/v1/mining/task/check/boostChannelNotPixel',
- 'https://notpx.app/api/v1/mining/task/check/rey-maling',
+ 'https://notpx.app/api/v1/mining/task/check/walletVerification',
 }
