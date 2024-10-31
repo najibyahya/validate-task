@@ -1,0 +1,50 @@
+[
+  {
+    "type": "1",
+    "title": "checkin"
+  },
+  {
+    "type": "3",
+    "title": "joinTg"
+  },
+  {
+    "type": "12",
+    "title": "followPlpaChannel"
+  },
+  {
+    "type": "5",
+    "title": "joinBittimgTg"
+  },
+  {
+    "type": "8",
+    "title": "registerBittime"
+  },
+  {
+    "type": "9",
+    "title": "bittimeKYC"
+  },
+  {
+    "type": "6",
+    "title": "followIG"
+  },
+  {
+    "type": "7",
+    "title": "followBittimeIG"
+  },
+  {
+    "type": "2",
+    "title": "followTwitter"
+  },
+  {
+    "type": "4",
+    "title": "followBittimeTwitter"
+  },
+  {
+    "type": "10",
+    "title": "followCatidChannel"
+  },
+  {
+    "type": "11",
+    "title": "playCatid"
+  }
+]
