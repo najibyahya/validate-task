@@ -1,0 +1,22 @@
+[
+    {
+        "taskId": "task1",
+        "taskName": "Join the Jetter Channel"
+    },
+    {
+        "taskId": "task3",
+        "taskName": "Follow us on X"
+    },
+    {
+        "taskId": "task4",
+        "taskName": "Follow Jetter's CEO on X"
+    },
+    {
+        "taskId": "task5",
+        "taskName": "Subscribe Jetter on YouTube"
+    },
+    {
+        "taskId": "task6",
+        "taskName": "Like and RT Airdrop tweet"
+    }
+]
