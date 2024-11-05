@@ -20,15 +20,19 @@
         "taskName": "Like and RT Airdrop tweet"
     },
     {
-        "taskId": "refer_5_friends"
+        "taskId": "refer_5_friends",
+        "taskName": "Reff 5"
     },
     {
-        "taskId": "refer_10_friends"
+        "taskId": "refer_10_friends",
+        "taskName": "Reff 10"
     },
     {
-        "taskId": "refer_100_friends"
+        "taskId": "refer_100_friends",
+        "taskName": "Reff 100"
     },
     {
-        "taskId": "refer_500_friends"
+        "taskId": "refer_500_friends",
+        "taskName": "Reff 500"
     }
 ]
