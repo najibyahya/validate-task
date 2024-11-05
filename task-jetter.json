@@ -18,5 +18,17 @@
     {
         "taskId": "task6",
         "taskName": "Like and RT Airdrop tweet"
+    },
+    {
+        "taskId": "refer_5_friends"
+    },
+    {
+        "taskId": "refer_10_friends"
+    },
+    {
+        "taskId": "refer_100_friends"
+    },
+    {
+        "taskId": "refer_500_friends"
     }
 ]
