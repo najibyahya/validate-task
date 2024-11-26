@@ -32,7 +32,7 @@
  'https://notpx.app/api/v1/mining/task/check/boinkTask',
  'https://notpx.app/api/v1/mining/task/check/unitsWallet',
  'https://notpx.app/api/v1/mining/task/check/nerdGame',
- 'https://notpx.app/api/v1/mining/task/check/openLeague;,
+ 'https://notpx.app/api/v1/mining/task/check/openLeague',
  'https://notpx.app/api/v1/mining/task/check/taskTypeCampaign1_74262',
  'https://notpx.app/api/v1/mining/task/check/taskTypeCampaign1_74263',
  'https://notpx.app/api/v1/mining/task/check/taskTypeCampaign1_74264',
